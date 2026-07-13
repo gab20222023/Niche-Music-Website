@@ -14,6 +14,11 @@ function movecursor(e) {
 const nicheTrackID = [
     "7tjVRlo5QYUpPOocaJb387",
     "7KAy8CJpjoSOVgRKUT6Vvq",
+    "7oY7UNn2jjIeBc28dx66s9",
+    "7sOBuRK26Ov7CR5fRSR7Om",
+    "2bZNtln9zDyeRt0uWU1JQq",
+    "7jS4DCNZHfgTHUevP5Bfv0",
+    "4HCdu48LScraIfJ7Ik7EhE",
 ]
 
 function spawnNextTrack() {

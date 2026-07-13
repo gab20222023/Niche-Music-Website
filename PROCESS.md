@@ -15,3 +15,6 @@ figuring that out, and bringing the new cursor to function will be the first tas
 Hour 2:
 First I brought the new Cursor to work, and I understand the code for the cursor way more now. I have also inserted an image of one of my favorite niche (in the western world niche) musicians, Russian rock star Viktor Tsoi! The atmosphere of the people around his stage should not only capture the rock music playing in the background, but also the people who discover it, and the ones who learn about new music by word rather than by the algorithm.
 I have also coded a user selection color, which is orange, instead of blue, which I really prefer.
+
+Hour 3:
+I mainly spend this hour coding the spotify based music player. I have used the spotify embed feature to spawn random tracks on the click of a button. As of 8:33PM on the 13. of July 2026, I have 7 different tracks for the website. This is probably going to be the last Hour before shipping Niche-fy for the first time. Thus I am going to spend the beginning of hour 4 finishing up the README.md document.
