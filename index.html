@@ -10,8 +10,12 @@
         <hr>
         <h2>Welcome to Niche-fy, the ultimate website for</h2>
         <h2>discovering niche music from all over the world!</h2>
+        <img src="ViktorTsoi2.jpg" alt="Viktor Tsoi" height="390" width="626"></img>
+        <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Viktor_Coj.jpg/960px-Viktor_Coj.jpg" target="_blank">https://commons.wikimedia.org/w/index.php?search=viktor+tsoi+kino&title=Special%3AMediaSearch&type=image</a>
+        
     </body>
-</html>
+    <div id="cursor" class="cursor"></div>
+    <script src="index.js"></script>
 
 <style>
     body {
@@ -30,5 +34,36 @@
         font-size: 15px;
         color: rgb(255, 255, 255);
         font-weight: normal;
+    }
+
+    p {
+        font-family: 'Monospace', monospace;
+        font-size: 10px;
+        color: rgb(255, 255, 255);
+        font-weight: normal;
+    }
+
+    a {
+        font-family: 'Monospace', monospace;
+        font-size: 10px;
+        color: rgb(255, 255, 255);
+        font-weight: normal;
+    }
+
+    /* This is the CSS for the custom cursor. 
+    (The idea is from https://dev.to/lensco825/how-to-make-a-custom-cursor-cursor-hover-effects-1ikg)*/
+    .cursor {
+        position: fixed;
+        width: 10px;
+        height: 10px;
+        background-color: white;
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+        transition: width 0.3s, height 0.3s;
+        pointer-events: none;
+    }
+
+    * {
+        cursor: none;
     }
 </style>
